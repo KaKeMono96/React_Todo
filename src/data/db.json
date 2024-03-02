@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "My First Todo",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "My Second Todo",
+      "completed": false
+    },
+    {
+      "id": 0.11743743628277592,
+      "title": "go to work",
+      "completed": false
+    },
+    {
+      "id": 0.4399812182052554,
+      "title": "new one",
+      "completed": false
+    },
+    {
+      "id": 0.9208070313496568,
+      "title": "this is created to do",
+      "completed": false
+    }
+  ]
+}
