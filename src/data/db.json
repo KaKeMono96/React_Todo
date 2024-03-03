@@ -8,7 +8,7 @@
     {
       "id": 2,
       "title": "My Second Todo",
-      "completed": false
+      "completed": true
     },
     {
       "id": 0.11743743628277592,
@@ -23,6 +23,11 @@
     {
       "id": 0.9208070313496568,
       "title": "this is created to do",
+      "completed": false
+    },
+    {
+      "id": 0.5704318291922073,
+      "title": "Hi therw",
       "completed": false
     }
   ]
